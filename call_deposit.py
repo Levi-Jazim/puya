@@ -11,8 +11,8 @@ import json
 # === CONFIG ===
 ALGOD_ADDRESS = "https://testnet-api.algonode.cloud"
 ALGOD_TOKEN = ""
-MNEMONIC = "junk frame cram pattern midnight include rice morning spoil family bright detect immune absent ugly acid seek busy hazard gift choice enrich camp absorb duty"
-APP_ID = 745191814
+MNEMONIC = "brass sing ripple hotel tumble much simple price island panther giant plate ozone cry delay bike try ethics final badge what royal syrup above sugar"
+APP_ID = 745199530
 
 
 # === SETUP ===

@@ -5,7 +5,7 @@ from algosdk import account, mnemonic
 # === CONFIG ===
 ALGOD_ADDRESS = "https://testnet-api.algonode.cloud"
 ALGOD_TOKEN = ""  # No token needed for Algonode
-MNEMONIC = "junk frame cram pattern midnight include rice morning spoil family bright detect immune absent ugly acid seek busy hazard gift choice enrich camp absorb duty"
+MNEMONIC = "brass sing ripple hotel tumble much simple price island panther giant plate ozone cry delay bike try ethics final badge what royal syrup above sugar"
 
 # === SETUP ===
 client = algod.AlgodClient(ALGOD_TOKEN, ALGOD_ADDRESS)
